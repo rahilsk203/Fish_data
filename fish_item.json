@@ -4,7 +4,8 @@
     "image": "fish1.jpg",
     "description": "High-quality fresh salmon for sale.",
     "offer": "25% Off",
-    "price": "$15.99 / kg"
+    "price": "$15.99 / kg",
+    "key":"fish,new"
   },
   {
     "name": "Tuna Steaks",
