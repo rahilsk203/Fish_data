@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fresh Salmon",
+    "image": "fish1.jpg",
+    "description": "High-quality fresh salmon for sale.",
+    "offer": "25% Off",
+    "price": "$15.99 / kg"
+  },
+  {
+    "name": "Tuna Steaks",
+    "image": "fish2.jpg",
+    "description": "Delicious tuna steaks ready to cook.",
+    "offer": "Special Offer",
+    "price": "$19.99 / kg"
+  },
+  {
+    "name": "Shrimp",
+    "image": "fish3.jpg",
+    "description": "Fresh shrimp straight from the ocean.",
+    "offer": "20% Off",
+    "price": "$12.99 / kg"
+  },
+  {
+    "name": "Cod Fish",
+    "image": "fish4.jpg",
+    "description": "Delicious cod fish fillets for a healthy meal.",
+    "offer": "Limited Time Offer",
+    "price": "$17.99 / kg"
+  }
+]
