@@ -12,7 +12,8 @@
     "image": "fish2.jpg",
     "description": "Delicious tuna steaks ready to cook.",
     "offer": "Special Offer",
-    "price": "$19.99 / kg"
+    "price": "$19.99 / kg",
+    "key":"f"
   },
   {
     "name": "Shrimp",
